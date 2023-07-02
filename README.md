@@ -21,5 +21,13 @@ These models take large model datasets
 ## USE CASES OF Generative AI
 ![image](https://github.com/ijaz-lab/Generative-AI/assets/78338522/4a742b0a-fd21-4c82-b608-41059f47e3bc)
 
+Unlocking creativity : Visual/audio/3D generation
 
+![image](https://github.com/ijaz-lab/Generative-AI/assets/78338522/89b6f103-77ab-477b-9fc3-ab254e314521)
+
+##### Synthetic data generation
+![image](https://github.com/ijaz-lab/Generative-AI/assets/78338522/a0fc7313-aabc-463f-8576-915b6e1f52c5)
+
+
+![image](https://github.com/ijaz-lab/Generative-AI/assets/78338522/025e5c94-c059-41e4-b565-aaa6614ba298)
 
