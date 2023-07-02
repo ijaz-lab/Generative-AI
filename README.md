@@ -18,4 +18,8 @@ These models take large model datasets
 ##### Generative AI models and tooling are readily available
 •	Many models are open source and customizable\
 •	Require powerful GPUs, but are available in the cloud
+## USE CASES OF Generative AI
+![image](https://github.com/ijaz-lab/Generative-AI/assets/78338522/4a742b0a-fd21-4c82-b608-41059f47e3bc)
+
+
 
